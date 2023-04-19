@@ -1,3 +1,4 @@
 .DS_Store
 set_api_key.sh
 .env
+conversation_ctx.json

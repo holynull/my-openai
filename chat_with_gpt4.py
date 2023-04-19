@@ -1,5 +1,8 @@
 import os
 import openai
+from dotenv import load_dotenv
+
+load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 # 获取当前目录
@@ -19,7 +22,13 @@ print(prompts)
 response = openai.ChatCompletion.create(
     # model="davinci:ft-personal:metapath-2023-03-28-02-42-17",
     model="gpt-4",
-    messages=[{"role": "user", "content": prompts}],
+    # messages=[{"role": "user", "content": prompts}],
+	messages=[
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": "Who won the world series in 2020?"},
+        {"role": "assistant", "content": "The Los Angeles Dodgers won the World Series in 2020."},
+        {"role": "user", "content": "Where was it played?"}
+    ],
     temperature=1
 )
 finish_reason = response['choices'][0]['finish_reason']
