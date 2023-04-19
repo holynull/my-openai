@@ -1,0 +1,13 @@
+NFT Project Name: Bored Ape Yacht Club
+NFT Contract Address: 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d
+Toke ID: 2260
+
+Transactions:
+1/5/2021
+From Eddie To Alice,Price 20.1234 eth
+3/5/2022
+From Alice To Bob,Price 10.1925 eth
+9/5/2023
+From Bob To Alice,Price 30.3675 eth
+
+请描述以上交易过程，并包含价格变化趋势:

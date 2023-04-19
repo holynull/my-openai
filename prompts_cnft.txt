@@ -1,0 +1,34 @@
+Bored Ape Yacht Club#3864:
+His background is army green, and 12.43% Bored Apes has this. He clothes a black holes t, and 2.05% Bored Apes has this. His eyes are bored, and 17.14% Bored Apes has this. His fur is noise, and 1.55% Bored Apes has this. His hat is fisherman, and 3.45% Bored Apes has this. His mouth is with bored bubblegum, and 1.19% Bored Apes has this. Its price is 65 ETH.
+Acitvites:
+Marketplace,Event,Price,From,To,Date
+Blur,List,66 ETH,0xe7,-,3 days ago
+OpenSea,List,66 ETH,0xe7,-,3 days ago
+OpenSea,List,88.69 ETH,0xe7,-,29 days ago
+OpenSea,List,99.69 ETH,0xe7,-,1 mouth ago
+OpenSea,Sale,2.8 ETH,0xd5,0xe7,1 year ago
+
+Bored Ape Yacht Club#1191:
+His background is blue, and 12.42% Bored Apes has this. He clothes a guayabera, and 2.32% Bored Apes has this. His eyes are bloodshot, and 8.46% Bored Apes has this. His fur is robot, and 2.65% Bored Apes has this. His hat is bowler, and 2.62% Bored Apes has this. His mouth is with bored unshaven, and 15.51% Bored Apes has this. Its price is 66 ETH.
+Acitvites:
+Marketplace,Event,Price,From,To,Date
+OpenSea,List,67.5 ETH,0x03,-,2 days ago
+Blur,List,65.0 ETH,0x03,-,2 days ago
+Blur,List,70.5 ETH,0x03,-,3 days ago
+OpenSea,List,72.0 ETH,0x03,-,3 days ago
+OpenSea,List,81.99 ETH,0x03,-,7 days ago
+OpenSea,List,115 ETH,0x03,-,12 days ago
+Blur,List,75.49 ETH,0x03,-,1 mouth ago
+OpenSea,List,76.49 ETH,0x03,-,1 mouth ago
+OpenSea,List,78.49 ETH,0x03,-,1 mouth ago
+Blur,List,79.68 ETH,0x03,-,1 mouth ago
+OpenSea,List,81.99 ETH,0x03,-,1 mouth ago
+OpenSea,List,87 ETH,0x03,-,1 mouth ago
+OpenSea,List,82 ETH,0x03,-,1 mouth ago
+OpenSea,List,99 ETH,0x03,-,8 mouths ago
+OpenSea,List,114 ETH,0x03,-,9 mouths ago
+OpenSea,List,119 ETH,0x03,-,9 mouths ago
+OpenSea,Sale,22 ETH,0xd8,-,1 year ago
+
+
+Which Bored Ape is rarer? And because of which attributes? Which one do you suggest I purchase?
